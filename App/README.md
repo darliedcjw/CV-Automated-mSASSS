@@ -1,6 +1,9 @@
 # Application Guide
 
-1. Run the application using "python3 app.py"
+### Please Note
+*Training datasets and weights used are not included.*
+
+### 1. Run the application using "python3 app.py"
 
 *Arguements to parse*
 * -ip: path to image folder
@@ -10,7 +13,7 @@
 * -v: viewing dimension of application on monitor/screen (Default: [1000, 1000])
 * -d: device to use (Default: 'cpu')
 
-2. Keyboard Keys
+### 2. Keyboard Keys
 
 *Functions*
 * b: Display area to be cropped
@@ -22,7 +25,3 @@
 * r: Hide keypoints prediction
 * s: Save ammended keypoints prediction (COCO format and Image)
 * v: Visibility option (Hide invisible keypoints - Not to be classified)
-
-#Please Note
-
-*Training datasets and weights used are not included.*

@@ -1,7 +1,7 @@
 # Folder Description (Automated mSASSS)
 #**App (More information inside folder)**
 
-Basic application that integrates a 2 staged deep learning model to monitor and score the progression of ankylosing spondylitis. The application allows users to ammend the keypoints predictions at stage 1 and subsequently send the correctly cropped images for classification at stage 2. Additionally, the application has the capability to save ammended datasets in the appropriate format (COCO and ImageFolder) for seamless finetuning of current weights in the event of data drift.
+A basic application that is integrated with a 2 staged deep learning model to monitor and score the progression of ankylosing spondylitis. The application allows users to ammend the keypoints predictions at stage 1 and subsequently send the correctly cropped images for classification at stage 2. Additionally, the application has the capability to save ammended datasets in the appropriate format (COCO and ImageFolder) for seamless finetuning of current weights in the event of data drift.
 
 
 #**HRNet**

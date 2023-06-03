@@ -1,7 +1,5 @@
 # Application Guide
 
-*Video Tutorial*
-
 1. Run the application using "python3 app.py"
 
 *Arguements to parse*
@@ -24,3 +22,7 @@
 * r: Hide keypoints prediction
 * s: Save ammended keypoints prediction (COCO format and Image)
 * v: Visibility option (Hide invisible keypoints - Not to be classified)
+
+#Please Note
+
+*Training datasets and weights used are not included.*
